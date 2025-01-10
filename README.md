@@ -1,6 +1,6 @@
 # Silberkondor über Feuerland : mit Segelkutter und Flugzeug ins Reich meiner Träume.
 
-<img align="right" height="150" src="https://github.com/kogo59/Von_Spitzbergen_zur_Sahara/blob/main/images/cover.jpg">
+<img align="right" height="150" src="https://github.com/kogo59/Silberkondor_ueber_Feuerland/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Silberkondor über Feuerland : mit Segelkutter und Flugzeug ins Reich meiner Träume"
 
