@@ -7,7 +7,7 @@ Silberkondor über Feuerland<br />
 ![Der „Silberkondor“ im Hafen der Träume.](Silberkondor_010.jpg "Der „Silberkondor“ im Hafen der Träume."){ .align_center }
 ::::
 
-:::: { .wrap-100 .break-after }
+:::: { .wrap-100 }
 ![&nbsp;](Silberkondor_011.jpg ""){ .align_center }
 ::::
 
