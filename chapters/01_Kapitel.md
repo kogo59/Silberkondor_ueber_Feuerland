@@ -76,7 +76,7 @@ Fahrzeuges.
 Ein paar Eisschollen treiben vorüber, nun gleiten wir zwischen den Molenköpfen
 hindurch, Christiansen hat dem Schiffsjungen das Ruder gegeben‚ springt mit den
 andern an die Segel, wirft die Zeiser los, setzt Segel auf Segel, leise neigt
-sich die „‚Feuerland“ nach Backbord über, das Wasser am Bug rauscht auf, kaum
+sich die „Feuerland“ nach Backbord über, das Wasser am Bug rauscht auf, kaum
 merklich tanzt das schmucke weiße Fahrzeug in der leichten Dünung, nun hat es
 die freie Nordsee erreicht — die „Holzpantine des Ozeans“ hat ihre
 abenteuerliche Fahrt begonnen!
@@ -102,7 +102,7 @@ Matrose aus der Versenkung‚ mit langen blauen Hosen, quer über der blauen Blu
 steht in roten Lettern der Name „Feuerland“. Die Füße stecken in hohen
 Gummistiefeln, Marke „Kanalarbeiter“, in den bis jetzt noch gepflegten Händen
 schwingt ein Kochlöffel — Smutje, unser neuer Schiffs- und Reisegenosse, unser
-Koch, als „Kochsmaat“ richtiggehend an Bord der ‚„Feuerland“ angemustert,
+Koch, als „Kochsmaat“ richtiggehend an Bord der „Feuerland“ angemustert,
 Löhnung nach Vereinbarung, tritt ihren Dienst an.
 
 Mit dröhnenden Schritten trampelt „Smutje“ in ihren schweren Seestiefeln, als
@@ -226,12 +226,12 @@ seiner Vollendung entgegenging und die Kisten mit Ausrüstungen und Geschenken
 sich zu einem Berg häuften, da hatte ich erst den einen Teil meiner Expedition
 zusammen!
 
-:::: { .wrap-100  }
-![Die „Feuerland“ <small>genannt „Holzpantine des Ozeans“</small>](Silberkondor_016.jpg "Die „Feuerland“ <small>genannt „Holzpantine des Ozeans“</small>"){ .align_center }
+:::: { .wrap-90  }
+![Die „Feuerland“ <small>genannt „Holzpantine des Ozeans“</small>](Silberkondor_016.jpg "Die „Feuerland“ <small>genannt „Holzpantine des Ozeans“</small>")
 ::::
 
-:::: { .wrap-100  }
-![Neptuns Schimmel](Silberkondor_017.jpg "Neptuns Schimmel"){ .align_center }
+:::: { .wrap-90  }
+![Neptuns Schimmel](Silberkondor_017.jpg "Neptuns Schimmel")
 ::::
 
 „Herrgott, was schreibst du denn nun noch zusammen, ich denke, du bist endlich
@@ -378,7 +378,7 @@ an, als wolle er sagen: ‚Was hast du mich denn ohne meinen Willen hierher auf
 diesen entsetzlichen Wackelpott geschleppt, laß mich an Land, ich will doch
 wirklich kein Seehund werden!‘
 
-‚Besser jetzt, und dann gründlich‘, denke ich bei mir, ‚um so eher wird die
+‚Besser jetzt, und dann gründlich‘, denke ich bei mir, um so eher wird die
 Besatzung seefest.‘ 
 
 :::

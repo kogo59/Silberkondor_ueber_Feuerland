@@ -41,6 +41,6 @@ Gesichert wurde die Expedition aber erst, als das Ullstein-Haus, Berlin, wieder
 mal mir, seinem alten Mitarbeiter, treu zur Seite sprang!
 :::
 
-:::: { .wrap-20 .float-right }
+:::: { .wrap-30 .float-right }
 ![&nbsp;](Silberkondor_011a.jpg "")
 ::::

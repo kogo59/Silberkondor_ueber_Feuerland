@@ -13,9 +13,9 @@ Silberkondor über Feuerland<br />
 
 
 :::: { .align-center .break-before  .fs-jumbo}
-<br /><br /><br /><br />
+<br />
 **Silberkondor** <br />
-**über**
+**über**<br />
 **Feuerland**
 ::::
 
@@ -33,12 +33,12 @@ von
 Günther Plüschow<br /><br />
 ::::
 
-:::: { .wrap-20 }
+:::: { .wrap-10 }
 ![](logo.jpg "logo.jpg"){ .align_center }
 ::::
 
 :::: { .align-center .fs-xxs}
-<br /><br />Mit 20 Tafeln
+<br />Mit 20 Tafeln
 ::::
 
 

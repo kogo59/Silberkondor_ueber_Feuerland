@@ -1,8 +1,6 @@
 # Der Tanz beginnt! {#zwei .unnumbered}
 
-
 ::: justified
-
 
 **V**oraus tanzt ein aufblitzendes Licht, das Borkum-Riff-Feuerschiff.
 
