@@ -462,7 +462,7 @@ alles, selbst wenn Speck so knapp wie auf der Holz, pantine ist —, riecht der
 Hai faul und mißtrauisch einen Augenblick daran, sperrt gnädig seinen Rachen
 auf, schwupp, ist der Speck weg!
 
-„Und nun schnell die Angel hinterher“, sage ich leise zu Christianssen, während
+„Und nun schnell die Angel hinterher“, sage ich leise zu Christiansen, während
 Garibaldi eilends seinen Kurbelkasten heraufholt.
 
 Als die Angel, mit Speck umwickelt, ins Wasser fällt, springt der Hai wie
