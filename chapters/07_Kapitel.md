@@ -246,3 +246,11 @@ Brasiliens, und“ — er macht eine kleine Pause — ‚auf die Farben seines L
 setzt man sich nicht!“ 
 
 :::
+
+:::: { .wrap-70  }
+![„Schrödern“ (rechts) mit einem Kameraden im brasilianischen Urwald](Silberkondor_080.jpg "„Schrödern“ (rechts) mit einem Kameraden im brasilianischen Urwald")
+::::
+
+:::: { .wrap-70  }
+![Deutsche Kolonisten im brasilianischen Urwald <small> Aus den an Ort und Stelle gefällten Urwaldbäumen entstehen die ersten Hütten</small>](Silberkondor_081.jpg "Deutsche Kolonisten im brasilianischen Urwald")
+::::
