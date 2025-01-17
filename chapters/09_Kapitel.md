@@ -708,7 +708,7 @@ und noch nicht gewagt hat, näher zu treten.
 „Wer bist du?“ fragt unser Führer fast drohend.
 
 „Ich bin allein, Lindolfo ist mein Name, ihr müßt mich kennen; ich bin auf dem
-Wege nach dem Iguassu, möchte bei euch übernachten.“ |
+Wege nach dem Iguassu, möchte bei euch übernachten.“
 
 „Aber ich sehe zwei Pferdeköpfe, Lindolfo, wen bringst du mit?“
 
