@@ -465,7 +465,7 @@ Nußschale, die „Feuerland“, die Holzpantine des Ozeans!
 ::::
 
 :::: { .wrap-70  }
-![Der Cerro Payne ist bezwungen! <small>Der Silberkondor ruht nach beendetem Fluge in der ‚,Tsingtau-Bucht“ des Lago Sarmiento in Patagonien aus</small>](Silberkondor_225.jpg "Der Cerro Payne ist bezwungen! <small>Der Silberkondor ruht nach beendetem Fluge in der ‚,Tsingtau-Bucht“ des Lago Sarmiento in Patagonien aus</small>")
+![Der Cerro Payne ist bezwungen! <small>Der Silberkondor ruht nach beendetem Fluge in der „Tsingtau-Bucht“ des Lago Sarmiento in Patagonien aus</small>](Silberkondor_225.jpg "Der Cerro Payne ist bezwungen! <small>Der Silberkondor ruht nach beendetem Fluge in der „Tsingtau-Bucht“ des Lago Sarmiento in Patagonien aus</small>")
 ::::
 
 :::
