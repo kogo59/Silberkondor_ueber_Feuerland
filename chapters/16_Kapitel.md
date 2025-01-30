@@ -1,4 +1,4 @@
-# Der Hafen der Träume {#fuenfzehn .unnumbered}
+# Der Hafen der Träume {#sechzehn .unnumbered}
 
 ::: justified
 
@@ -8,8 +8,8 @@ seiner Ladefähigkeit aufgefüllt, beladen mit allem Notwendigen, das man
 vielleicht bei einer Notlandung in unwirtlicher, unbewohnter Gegend gebrauchen
 könnte. Dazu viele Reserveteile, Anker, Leinen, Notproviant, Äxte, Zeltbahn. Wir
 sind ja von nun ab auf uns und was das Flugzeug schleppen kann allein an
-gewiesen, falls wir die gute Holzpantine‚ unser „Flugzeugmutter- und
-Depotschiff"‚ nicht wieder erreichen sollten.
+gewiesen, falls wir die gute Holzpantine, unser „Flugzeugmutter- und
+Depotschiff", nicht wieder erreichen sollten.
 
 Schlimm sieht das Wetter aus, tiefdrohende Wolken am Himmel, der Wind bläst in
 schweren Stößen von Land her, Dreblow und ich sind diesmal, durch Erfahrungen
@@ -126,8 +126,8 @@ köstlicher Spießbraten!
 
 Da flackern draußen, wo einstmals der Urwald stand und wo eine Art Festwiese
 gebildet wurde, mächtige Feuer. Vor ihnen hockt in Festgewändern ganz Dawson.
-Alles, was laufen kann, was zu klein dazu ist, an der Mutterbrust‚ was zu alt
-dazu ist, auf Pferdrücken‚ ist. zu diesem Fest herbeigeeilt, manche aus dem
+Alles, was laufen kann, was zu klein dazu ist, an der Mutterbrust, was zu alt
+dazu ist, auf Pferdrücken, ist. zu diesem Fest herbeigeeilt, manche aus dem
 fernsten Urwaldswinkel, wo sie Schafe zu hüten und Urwald zu verbrennen haben,
 in tagelangem Ritt.
 
@@ -459,5 +459,13 @@ Anker poltert in den Grund, ein Boot kommt an Land, große wilde Gestalten darin
 Selten habe ich so schön geschlafen wie in dieser Nacht in der Traumbucht in
 meiner kleinen Koje, auf meinem eigenen Schiff, und sei es „nur“ diese kleine
 Nußschale, die „Feuerland“, die Holzpantine des Ozeans!
+
+:::: { .wrap-70  }
+![Seit Erschaffung der Welt stand der Cerro Payne unbezwungen da — bis wir zwei Deutsche auf zerbrechlichem Flugzeug kamen!](Silberkondor_224.jpg "Seit Erschaffung der Welt stand der Cerro Payne unbezwungen da — bis wir zwei Deutsche auf zerbrechlichem Flugzeug kamen!")
+::::
+
+:::: { .wrap-70  }
+![Der Cerro Payne ist bezwungen! <small>Der Silberkondor ruht nach beendetem Fluge in der ‚,Tsingtau-Bucht“ des Lago Sarmiento in Patagonien aus</small>](Silberkondor_225.jpg "Der Cerro Payne ist bezwungen! <small>Der Silberkondor ruht nach beendetem Fluge in der ‚,Tsingtau-Bucht“ des Lago Sarmiento in Patagonien aus</small>")
+::::
 
 :::
