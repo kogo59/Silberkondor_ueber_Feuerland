@@ -259,7 +259,7 @@ dieser Natur hier, die ihn schlief seit Erschaffung der Welt, bis wir mit unserm
 Flugzeug kamen und darüber hinwegbrausten und donnerten!
 
 :::: { .wrap-90  }
-![Der Cerro Payne, sich im Lago Sarmiento widerspiegelnd! <small>Wie ein grimmiger Wächter steht das gewaltige Payne-Massiv schützend vor den Geheimnissen, die wir im Flugzeug als erste Menschen erblickten ](Silberkondor_240.jpg "Der Cerro Payne, sich im Lago Sarmiento widerspiegelnd! <small>Wie ein grimmiger Wächter steht das gewaltige Payne-Massiv schützend vor den Geheimnissen, die wir im Flugzeug als erste Menschen erblickten</small>")
+![Der Cerro Payne, sich im Lago Sarmiento widerspiegelnd! <small>Wie ein grimmiger Wächter steht das gewaltige Payne-Massiv schützend vor den Geheimnissen, die wir im Flugzeug als erste Menschen erblickten</small>](Silberkondor_240.jpg "Der Cerro Payne, sich im Lago Sarmiento widerspiegelnd! <small>Wie ein grimmiger Wächter steht das gewaltige Payne-Massiv schützend vor den Geheimnissen, die wir im Flugzeug als erste Menschen erblickten</small>")
 ::::
 
 :::: { .wrap-90  }
