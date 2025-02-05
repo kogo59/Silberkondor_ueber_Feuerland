@@ -30,7 +30,7 @@ von
 ::::
 
 :::: { .align-center .fs-xl}
-Günther Plüschow<br /><br />
+Gunther Plüschow<br /><br />
 ::::
 
 :::: { .wrap-10 }
