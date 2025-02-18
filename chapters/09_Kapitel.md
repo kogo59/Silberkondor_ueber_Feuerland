@@ -740,7 +740,7 @@ wir der Kultur zurückgegeben.
 :::
 
 :::: { .wrap-90  }
-![Am Ziel! <small>Die winzige „Feuerland“ vor einem Gletscher des Agostini Fjords](Silberkondor_112.jpg "Am Ziel! <small>Die winzige „Feuerland“ vor einem Gletscher des Agostini Fjords")
+![Am Ziel! <small>Die winzige „Feuerland“ vor einem Gletscher des Agostini Fjords</small>](Silberkondor_112.jpg "Am Ziel! <small>Die winzige „Feuerland“ vor einem Gletscher des Agostini Fjords</small>")
 ::::
 
 :::: { .wrap-90  }
